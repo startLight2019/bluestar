@@ -7,9 +7,9 @@ package common
 
 const (
 	HF_CHANNEL = ""        //当前通道名称 "lotuschannel"，默认当前通道
-	HF_LOTUSCC = "lotuscc" //主链码名
-	HF_BCOINCC = "bcoincc" //分红玛链码名
-	HF_HCOINCC = "hcoincc" //普通玛链码名
+	HF_LOTUSCC = "lotuscc" //主链码名称
+	HF_BCOINCC = "bcoincc" //可消费
+	HF_HCOINCC = "hcoincc" //无流通
 )
 
 const (
