@@ -14,8 +14,8 @@ PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
 		</commentGenerator>
 		<!-- 元 素 定 义 如 何 连 接 目 标 数 据 库 -->
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
-			connectionURL="jdbc:mysql://47.92.94.224:3306/oilunion"
-			userId="root" password="su123456">
+			connectionURL="jdbc:mysql://192.168.2.151:3306/oilunion"
+			userId="root" password="12345678">
 		</jdbcConnection>
 		<javaTypeResolver>
 			<property name="forceBigDecimals" value="false" />
