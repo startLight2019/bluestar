@@ -34,14 +34,9 @@
    datasource:
       driver-class-name: com.mysql.jdbc.Driver
       #driver-class-name: com.mysql.cj.jdbc.Driver
-      #url: jdbc:mysql://47.92.94.224:3306/oilunion?useUnicode=true&characterEncoding=UTF-8
-      #username: root
-      #password: su123456
-      
-      #只读库
-      url: jdbc:mysql://rr-8vb49sawzg6537595co.mysql.zhangbei.rds.aliyuncs.com:3306/groupoil?useUnicode=true&characterEncoding=UTF-8&useSSL=true
-      username: yjzx
-      password: Strongunion_2013
+      url: jdbc:mysql://192.168.2.151:3306/oilunion?useUnicode=true&characterEncoding=UTF-8
+      username: root
+      password: 12345678
       
       # 使用druid数据源
       type: com.alibaba.druid.pool.DruidDataSource
